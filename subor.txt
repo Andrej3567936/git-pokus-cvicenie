@@ -2,3 +2,4 @@ Toto je prvy riadok.
 Toto je druhy riadok s novou zmenou.
 Tretí riadok z feature/test vetvy.
 No co, pridal si řádek?
+Zmena od kolegu.
